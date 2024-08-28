@@ -48,7 +48,11 @@ Enhanced accessibility: Plain language ensures that information is accessible to
 
 ANWSER:
 Instead of "initiate," use "start" or "begin."
+
+
 Instead of "utilize," use "use" or "employ."
+
+
 Instead of "parameter," use "setting" or "variable."
 
 
